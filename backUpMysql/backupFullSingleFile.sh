@@ -10,7 +10,7 @@ day=$(date +"%Y-%m-%d")
 hour_minute=$(date +"%H-%M") 
 
 #ketik semua nama database yang ingin di backup, sesuaikan dengan kondisi di lapangan
-DB_NAMES2="aplikasi master" 
+DB_NAMES2="database1 database2 database3" 
 
 #nama file backup oroginal
 BACKUP_MIX="$backup_dir/SIMGOSV2-full-$day-$hour_minute.sql" 
