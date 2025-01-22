@@ -3,7 +3,7 @@
 
 DB_USER="[USER]"
 DB_PASSWORD="[PASSWORD]"
-DB_NAMES=(aplikasi master)
+DB_NAMES=(database1 database2 database3)
 DB_HOST=[HOST]
 
 # buat direktory backupDir terlebih dahulu
